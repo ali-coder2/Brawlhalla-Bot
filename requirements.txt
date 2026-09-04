@@ -1,0 +1,5 @@
+ultralytics==8.3.0
+opencv-python==4.10.0.84
+mss==9.0.1
+pyautogui==0.9.54
+numpy==1.26.4
