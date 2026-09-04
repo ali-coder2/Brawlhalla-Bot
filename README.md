@@ -28,6 +28,6 @@ Sistemi çalıştırmadan önce aşağıdaki bileşenlerin sisteminizde kurulu o
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adin/Brawlhalla-Bot.git](https://github.com/kullanici-adin/Brawlhalla-Bot.git)
+   git clone https://github.com/ali-coder2/Brawlhalla-Bot
    pip install -r requirements.txt
    cd Brawlhalla-Bot
